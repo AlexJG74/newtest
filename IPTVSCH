@@ -1,16 +1,12 @@
 #EXTM3U $BorpasFileFormat="1"
-#EXTINF:-1,CNA (Opt-2) (SG)
-http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
-#EXTINF:-1,AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1,Apple Sauce Network
-https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1,Beach TV - Panama City
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1,Beach TV - Pawleys Island
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1,Buzzr
-https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8?fluxustv.m3u8
+#EXTINF:-1,DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1,DJing Live
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1,DJing Summer Vibes
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1,DJing Underground
+https://www.djing.com/tv/underground.m3u8
 #EXTINF:-1,California Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
 #EXTINF:-1,S03E06 - Party
@@ -299,14 +295,6 @@ http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 http://ec.playmedia.fr/beblack/africa/playlist.m3u8
 #EXTINF:-1,Bblack! Caribbean
 http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
-#EXTINF:-1,DJing Karaoke
-https://www.djing.com/tv/karaoke.m3u8
-#EXTINF:-1,DJing Live
-https://www.djing.com/tv/live.m3u8
-#EXTINF:-1,DJing Summer Vibes
-https://www.djing.com/tv/session_summer-vibes.m3u8
-#EXTINF:-1,DJing Underground
-https://www.djing.com/tv/underground.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/ESPN Classic Sport.png",Espace Francophone
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/France 24.png",France 24 (Opt-1)
@@ -513,6 +501,16 @@ http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/MTV-Ukraine.png",Rai Sudtirol (Switzerland)
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1,CNA (Opt-2) (SG)
+http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
+#EXTINF:-1,AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1,Apple Sauce Network
+https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1,Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/MTV-Ukraine.png",Rai Yoyo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 #EXTINF:-1,RDS Social TV
@@ -731,6 +729,8 @@ http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?fluxustv.m3u8
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/RealTV Estate.png",TV Educativa (Opt-1)
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/RealTV Estate.png",TV Educativa (Opt-2)
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/CCTV News.png",TV Galega
