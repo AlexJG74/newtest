@@ -737,8 +737,6 @@ http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/RTVi черный.png",RTVA (Opt-2)
 http://videos.rtva.ad:1935/live/web/playlist.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/24 Новости (Украина).png",24 Horas (Opt-1)
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/24 Новости (Украина).png",24 Horas (Opt-2)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1,25 TV
@@ -893,10 +891,6 @@ http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/OTV Music.png",TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-#EXTINF:-1,15TV Sabinas (Opt-1)
-http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:-1,15TV Sabinas (Opt-2)
-http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1,FOROtv (Opt-1)
 https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8?fluxustv.m3u8
 #EXTINF:-1,FOROtv (Opt-2)
@@ -1093,8 +1087,6 @@ http://cdnh4.iblups.com/hls/irtp.m3u8
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,Vision TV Musica
 http://v8.ciclano.io:1935/visionmusica/_definst_/visionmusica/playlist.m3u8
-#EXTINF:-1,88 Stereo
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Animal planet.png",Anexion TV 36
 http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8
 #EXTINF:-1,Colosal TV
@@ -1445,8 +1437,6 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/24 Техно.png",24 Kanal
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/TV1000 East.png",100% News
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1,112 Ukraine (Opt-3)
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1,1TV Odessa
@@ -2709,8 +2699,6 @@ http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
 #EXTINF:-1 tvg-logo="../Channel/Logo/TV1000 East.png",100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1,112_ukraina
-http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?codec=mpeg4
 #EXTINF:-1,360 HD
 http://360tv-cdn.facecast.io/360/channel2/1.m3u8
 #EXTINF:-1,555 Hunt Fishing TV
@@ -2741,7 +2729,7 @@ http://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8
 http://video.oct.dc.gov/out/u/15_1.m3u8
 #EXTINF:-1,DCN TV (USA)
 http://video.oct.dc.gov/out/u/21_1.m3u8
-#EXTINF:-1 is-favorite="1",Deejay TV
+#EXTINF:-1,Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1,DKN TV (USA)
 http://video.oct.dc.gov/out/u/96_7.m3u8
