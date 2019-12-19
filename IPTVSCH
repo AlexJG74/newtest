@@ -1,3 +1,8 @@
+#EXTM3U
+#EXTINF:0,novaent
+http://e100-nlds107.cdn.bg/nlds/novaplay2/novaent/as/live/novaent_hd_1600_pc.m3u8
+#EXTINF:0,h2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTM3U $BorpasFileFormat="1"
 #EXTINF:-1,DJing Karaoke
 https://www.djing.com/tv/karaoke.m3u8
