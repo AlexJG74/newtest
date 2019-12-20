@@ -1,6 +1,36 @@
 #EXTM3U
-#EXTINF:0,novaent
+#EXTINF:0,100% Auto Moto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:0,Alfa TV
+http://alfa.bg:1935/live/live/playlist.m3u8
+#EXTINF:0,Alfa TV
+http://alfa.bg:1935/live/live/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,BTK
+http://hls.cdn.bg:2007/fls/vtv/chunklist_w689766971.m3u8?fluxustv.m3u8
+#EXTINF:0,Bulgaria On Air
+http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:0,Bulgaria On Air
+http://hls.cdn.bg:2006/fls/bonair.stream/chunklist.m3u8
+#EXTINF:0,Bulgaria On Air
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:0,Light Channel
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:0,MM
+http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
+#EXTINF:0,MU-VI TV
+http://ios.cdn.bg:2013/fls/livetv.stream/playlist.m3u8
+#EXTINF:0,MU-Vi TV
+http://ios.cdn.bg:2013/fls/livetv.stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,nova TV
 http://e100-nlds107.cdn.bg/nlds/novaplay2/novaent/as/live/novaent_hd_1600_pc.m3u8
+#EXTINF:0,Nova TV
+https://e100-nlds107.cdn.bg/nlds/novaplay2/novaent/as/live/novaent_hd_1600_pc.m3u8
+#EXTINF:0,Plovdivska Mitropolia TV
+http://78.130.205.67:1935/live/mpegts.stream/playlist.m3u8
+#EXTINF:0,This is Bulgaria
+http://bit.ly/2CvoeKz
+#EXTINF:0,Travel TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF:0,h2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTM3U $BorpasFileFormat="1"
